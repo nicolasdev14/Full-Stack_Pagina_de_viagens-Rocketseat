@@ -1,5 +1,7 @@
 ##🌎 Projeto de Viagens | Rocketseat
 
+<img src="assets/images/IMAGENS DO PROJETO1">
+<img src="assets/images/IMAGENS DO PROJETO2">
 ## 📝 Sobre o Projeto
 Este projeto é um site de viagens desenvolvido durante o curso Full Stack da Rocketseat.  
 O objetivo foi praticar HTML, CSS e JavaScript criando uma página moderna, responsiva e bem estruturada.
