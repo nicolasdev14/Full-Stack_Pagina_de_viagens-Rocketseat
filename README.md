@@ -1,18 +1,5 @@
 ##🌎 Projeto de Viagens | Rocketseat
 
-## 👤 Sobre mim
-Olá! Meu nome é **Nicolas**, tenho 14 anos e estou estudando programação com foco em **desenvolvimento front-end**.  
-Atualmente estou aprendendo e evoluindo em:
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- Responsividade  
-- Git e GitHub
-
-Gosto de criar projetos limpos, bem estruturados e sempre busco melhorar a organização do código, seguindo boas práticas.
-_______________________________________________________________________________________________________________________________
-
 ## 📝 Sobre o Projeto
 Este projeto é um site de viagens desenvolvido durante o curso Full Stack da Rocketseat.  
 O objetivo foi praticar HTML, CSS e JavaScript criando uma página moderna, responsiva e bem estruturada.
@@ -26,6 +13,20 @@ O objetivo foi praticar HTML, CSS e JavaScript criando uma página moderna, resp
  - Seção com destinos populares.
  - Componentes visuais reutilizáveis.
  - Estrutura limpa e organizada.
+
+_______________________________________________________________________________________________________________________________
+
+## 👤 Sobre mim
+Olá! Meu nome é **Nicolas**, tenho 14 anos e estou estudando programação com foco em **desenvolvimento front-end**.  
+Atualmente estou aprendendo e evoluindo em:
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Responsividade  
+- Git e GitHub
+
+Gosto de criar projetos limpos, bem estruturados e sempre busco melhorar a organização do código, seguindo boas práticas.
 
 _______________________________________________________________________________________________________________________________
 
