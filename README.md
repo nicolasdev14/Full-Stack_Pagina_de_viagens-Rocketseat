@@ -1,6 +1,6 @@
 ##🌎 Projeto de Viagens | Rocketseat
-https://github.com/nicolasdev14/Full-Stack_Pagina_de_viagens-Rocketseat/blob/master/assets/images/IMAGEM%20DO%20PROJETO1.png
-https://github.com/nicolasdev14/Full-Stack_Pagina_de_viagens-Rocketseat/blob/master/assets/images/IMAGEM%20DO%20PROJETO2.png
+![Descrição da Imagem](assets/images/IMAGEM DO PROJETO1.png)
+![Descrição da Imagem](assets/images/IMAGEM DO PROJETO2.png)
 ## 📝 Sobre o Projeto
 Este projeto é um site de viagens desenvolvido durante o curso Full Stack da Rocketseat.  
 O objetivo foi praticar HTML, CSS e JavaScript criando uma página moderna, responsiva e bem estruturada.
